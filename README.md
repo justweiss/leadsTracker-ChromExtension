@@ -1,1 +1,1 @@
-# leadsTracker-ChromExtension
+# Leads Tracker - Chrome Extension
